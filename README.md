@@ -1,3 +1,3 @@
 "# car-emissions-predictions" 
-## this the website of these prject
+## this is the website of this project
 https://car-emission-prediction.herokuapp.com/
